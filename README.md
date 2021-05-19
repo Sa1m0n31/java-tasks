@@ -5,3 +5,4 @@ Java exercises on my studies
 2. Estimation of pi number using Monte Carlo method (Burak_zad2.zip)
 3. Simple Shell with pure Java - pwd, ls, cd, cp, echo, cat, mkdir, rm, history, head, tail commands (Burak_zad3.zip)
 4. Java Swing text editor with multiple cards and words, characters and lines counter
+5. TCP chat in client-server architecture
